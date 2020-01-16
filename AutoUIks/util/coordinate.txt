@@ -1,0 +1,7 @@
+{'topLeftX': 0, 'topLeftY': 2, 'downLeftX': 0, 'downLeftY': 105, 'downRightX': 97, 'downRightY': 105, 'topRightX': 97, 'topRightY': 2}
+{'topLeftX': 336, 'topLeftY': 0, 'downLeftX': 336, 'downLeftY': 90, 'downRightX': 446, 'downRightY': 90, 'topRightX': 446, 'topRightY': 0}
+{'topLeftX': 237, 'topLeftY': 128, 'downLeftX': 237, 'downLeftY': 164, 'downRightX': 423, 'downRightY': 164, 'topRightX': 423, 'topRightY': 128}
+{'topLeftX': 511, 'topLeftY': 0, 'downLeftX': 511, 'downLeftY': 95, 'downRightX': 617, 'downRightY': 95, 'topRightX': 617, 'topRightY': 0}
+{'topLeftX': 497, 'topLeftY': 127, 'downLeftX': 497, 'downLeftY': 159, 'downRightX': 613, 'downRightY': 159, 'topRightX': 613, 'topRightY': 127}
+{'topLeftX': 394, 'topLeftY': 443, 'downLeftX': 394, 'downLeftY': 565, 'downRightX': 468, 'downRightY': 565, 'topRightX': 468, 'topRightY': 443}
+{'topLeftX': 514, 'topLeftY': 445, 'downLeftX': 514, 'downLeftY': 596, 'downRightX': 612, 'downRightY': 596, 'topRightX': 612, 'topRightY': 445}

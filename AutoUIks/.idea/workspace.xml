@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a4bce60-7ea8-4fc3-8eac-9ea82fb54398" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/proxyscript.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <folding>
+                <element signature="e#24#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/request.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="19" column="34" selection-start-line="10" selection-start-column="12" selection-end-line="19" selection-end-column="34" />
+              <folding>
+                <element signature="e#24#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/response.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="12" column="37" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cases/pigai.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2571">
+              <caret line="122" column="46" lean-forward="true" selection-start-line="122" selection-start-column="46" selection-end-line="122" selection-end-column="46" />
+              <folding>
+                <element signature="e#164#173#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/util/coordinate.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+              <folding>
+                <element signature="e#24#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mitmproxyscript.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="129" column="61" lean-forward="true" selection-start-line="129" selection-start-column="61" selection-end-line="129" selection-end-column="61" />
+              <folding>
+                <element signature="e#24#45#0" expanded="true" />
+                <element signature="e#48#71#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/python/Lib/site-packages/mitmproxy/http.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1042">
+              <caret line="137" column="6" selection-start-line="137" selection-start-column="6" selection-end-line="137" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>find_elements</find>
+      <find>by</find>
+      <find>sleep</find>
+      <find>crop</find>
+      <find>brea</find>
+      <find>print</find>
+      <find>show</find>
+      <find>srcImg</find>
+      <find>testImg</find>
+      <find>src_pts</find>
+      <find>str</find>
+      <find>len</find>
+      <find>get_img</find>
+      <find>get_loc</find>
+      <find>case</find>
+      <find>get_image_path</find>
+      <find>response</find>
+      <find>open</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pigaiDetail.py" />
+        <option value="$PROJECT_DIR$/cases/__init__.py" />
+        <option value="$PROJECT_DIR$/cases/appium.py" />
+        <option value="D:/docker/router/conf/vhost/proxy" />
+        <option value="D:/docker/router/conf/vhost/fe_rewrite" />
+        <option value="$PROJECT_DIR$/util/mitmproxy.py" />
+        <option value="$PROJECT_DIR$/util/test.py" />
+        <option value="$PROJECT_DIR$/util/imagefusion.py" />
+        <option value="$PROJECT_DIR$/util/scollscreen.py" />
+        <option value="$PROJECT_DIR$/util/testimage.py" />
+        <option value="D:/python/Lib/site-packages/selenium/webdriver/support/wait.py" />
+        <option value="$PROJECT_DIR$/util/response.py" />
+        <option value="$PROJECT_DIR$/util/request.py" />
+        <option value="$PROJECT_DIR$/cases/pigai.py" />
+        <option value="$PROJECT_DIR$/util/__init__.py" />
+        <option value="$PROJECT_DIR$/util/proxyscript.py" />
+        <option value="$PROJECT_DIR$/util/query.txt" />
+        <option value="$PROJECT_DIR$/proxyscript.py" />
+        <option value="$PROJECT_DIR$/util/coordinate.txt" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/mitmproxyscript.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="157" />
+    <option name="y" value="328" />
+    <option name="width" value="1293" />
+    <option name="height" value="693" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AutoUIks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoUIks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoUIks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoUIks" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoUIks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AutoUIjzb" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="AutoUIks" is-module-sdk="true" working-directory="D:/ksautocase/zybatsCase/zybatsCase">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="AutoUIks" />
+        <option name="myWorkingDirectory" value="D:/ksautocase/zybatsCase/zybatsCase" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\新建文件夹\AutoUIks" />
+      <recent name="D:\新建文件夹\AutoUIks\testcases\kssearch" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\UI\AutoUIks" />
+      <recent name="D:\UI\AutoUIks\util" />
+      <recent name="D:\新建文件夹\AutoUIks\cases" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.__init__ (1)">
+    <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutoUIks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutoUIks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/util/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="imagefusion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutoUIks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/util/imagefusion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutoUIks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/util/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testimage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutoUIks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/util/testimage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.__init__ (1)" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.testimage" />
+        <item itemvalue="Python.imagefusion" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a4bce60-7ea8-4fc3-8eac-9ea82fb54398" name="Default Changelist" comment="" />
+      <created>1575531159877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575531159877</updated>
+      <workItem from="1575531171448" duration="521000" />
+      <workItem from="1575531803707" duration="10379000" />
+      <workItem from="1575602347996" duration="11321000" />
+      <workItem from="1575862058603" duration="24237000" />
+      <workItem from="1576119188170" duration="337000" />
+      <workItem from="1576120115675" duration="4841000" />
+      <workItem from="1576132821677" duration="17186000" />
+      <workItem from="1576160970088" duration="7334000" />
+      <workItem from="1577170583611" duration="9063000" />
+      <workItem from="1577186583758" duration="9029000" />
+      <workItem from="1577267747657" duration="63259000" />
+      <workItem from="1578301338868" duration="38307000" />
+      <workItem from="1578466755871" duration="4734000" />
+      <workItem from="1578476924523" duration="81612000" />
+      <workItem from="1579144935815" duration="3374000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_pigai_CalculatorTest_test_plus - 2019.12.24 at 16h 10m 00s.xml">
+      <configuration name="Unittests for pigai.CalculatorTest.test_plus" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_pigai_CalculatorTest_test_plus - 2019.12.24 at 16h 17m 55s.xml">
+      <configuration name="Unittests for pigai.CalculatorTest.test_plus" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_pigai_py - 2019.12.24 at 16h 19m 52s.xml">
+      <configuration name="Unittests in pigai.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_pigai_CalculatorTest_test_plus - 2019.12.24 at 16h 25m 22s.xml">
+      <configuration name="Unittests for pigai.CalculatorTest.test_plus" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_pigai_CalculatorTest_test_plus - 2019.12.24 at 16h 43m 36s.xml">
+      <configuration name="Unittests for pigai.CalculatorTest.test_plus" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_pigai_CalculatorTest_test_plus - 2019.12.24 at 16h 44m 48s.xml">
+      <configuration name="Unittests for pigai.CalculatorTest.test_plus" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_pigai_py - 2019.12.24 at 17h 05m 13s.xml">
+      <configuration name="Unittests in pigai.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_pigai_py - 2019.12.24 at 17h 09m 02s.xml">
+      <configuration name="Unittests in pigai.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_pigai_py - 2019.12.24 at 17h 12m 02s.xml">
+      <configuration name="Unittests in pigai.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_pigai_py - 2019.12.24 at 17h 14m 17s.xml">
+      <configuration name="Unittests in pigai.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="285534000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17609392" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32826087" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.63586956" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.1076087" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32934782" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.27142859" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32934782" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.13047002" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19530416" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32826087" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21956521" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29782608" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32934782" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.27142859" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32934782" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.34098187" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/util/testimage.py</url>
+          <line>99</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/util/testimage.py</url>
+          <line>124</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/util/proxyscript.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="src_pts" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AutoUIks$Unittests_in_pigai_py.coverage" NAME="Unittests in pigai.py Coverage Results" MODIFIED="1577178850588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/AutoUIks$test.coverage" NAME="test Coverage Results" MODIFIED="1577279233538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/AutoUIks$proxyscript.coverage" NAME="proxyscript Coverage Results" MODIFIED="1576161527987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/AutoUIks$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1579143050619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/AutoUIks$Unittests_for_pigai_CalculatorTest_test_case_1.coverage" NAME="Unittests for pigai.CalculatorTest.test_case_1 Coverage Results" MODIFIED="1575541905780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/AutoUIks$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1579148718118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AutoUIks$mitmproxy.coverage" NAME="mitmproxy Coverage Results" MODIFIED="1576158113535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/AutoUIks$imagefusion.coverage" NAME="imagefusion Coverage Results" MODIFIED="1578487623855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/AutoUIks$testimage.coverage" NAME="testimage Coverage Results" MODIFIED="1578566527836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/AutoUIks$Unittests_for_pigai_CalculatorTest_test_plus.coverage" NAME="Unittests for pigai.CalculatorTest.test_plus Coverage Results" MODIFIED="1577177018015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/AutoUIks$pigaiDetail.coverage" NAME="pigaiDetail Coverage Results" MODIFIED="1575533201098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/result_image/2020-01-09_19_14_34_PD2717C_result.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/2020-01-10_16_36_28_PD2717C_result.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/2020-01-10_16_36_27_PD2717C_result_3.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/2020-01-10_16_36_21_PD2717C_result_1.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/2020-01-10_16_36_18_PD2717C_result_0.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/2020-01-10_16_36_24_PD2717C_result_2.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/2020-01-10_16_34_21_PD2717C_result.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/2020-01-13_11_04_14_PD2717C_result.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/2020-01-13_15_29_10_PD2717C_result.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/2020-01-13_15_29_19_PD2717C_result.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/2020-01-13_15_29_00_PD2717C_result.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/2020-01-13_15_28_50_PD2717C_result.png" />
+    <entry file="file://D:/python/Lib/site-packages/selenium/webdriver/support/expected_conditions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="157" selection-start-line="157" selection-end-line="157" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="361" column="8" selection-start-line="361" selection-start-column="8" selection-end-line="361" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="864" selection-start-line="864" selection-end-line="864" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="79" column="9" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_image/2020-01-13_17_55_46_PD2717C_result.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/2020-01-13_17_55_29_PD2717C_result.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/2020-01-13_17_55_17_PD2717C_result.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/2020-01-13_17_55_08_PD2717C_result.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/2020-01-13_17_54_54_PD2717C_result.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/2020-01-13_17_54_30_PD2717C_result.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/2020-01-13_17_47_15_PD2717C_result.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/2020-01-13_17_54_42_PD2717C_result.png" />
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-287100998/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="5089" column="8" selection-start-line="5089" selection-start-column="8" selection-end-line="5089" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_image/PD2717Cks_f8c4489d47612641b2b712aa92bf5d70_result_0.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/image6_PD2717Cks_f8c4489d47612641b2b712aa92bf5d70_result.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/image7_PD2717Cks_f8c4489d47612641b2b712aa92bf5d70_result.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/image4_PD2717Cks_f8c4489d47612641b2b712aa92bf5d70_result.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/image5_PD2717Cks_f8c4489d47612641b2b712aa92bf5d70_result.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/image3_PD2717Cks_f8c4489d47612641b2b712aa92bf5d70_result.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/image2_PD2717Cks_f8c4489d47612641b2b712aa92bf5d70_result.png" />
+    <entry file="file://$PROJECT_DIR$/result_image/image1_PD2717Cks_f8c4489d47612641b2b712aa92bf5d70_result.png" />
+    <entry file="file://D:/python/Lib/ast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="42" column="29" selection-start-line="39" selection-start-column="4" selection-end-line="42" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/testimage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4026">
+          <caret line="122" column="27" selection-start-line="122" selection-start-column="27" selection-end-line="122" selection-end-column="27" />
+          <folding>
+            <element signature="e#14#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/scollscreen.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/python/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3028">
+          <caret line="530" selection-start-line="530" selection-end-line="530" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="277" column="4" selection-start-line="277" selection-start-column="4" selection-end-line="277" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/imagefusion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#14#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="380" column="8" selection-start-line="380" selection-start-column="8" selection-end-line="380" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/testimage.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/proxyscript.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="e#24#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="19" column="34" selection-start-line="10" selection-start-column="12" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <element signature="e#24#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/response.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="12" column="37" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/site-packages/mitmproxy/http.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1042">
+          <caret line="137" column="6" selection-start-line="137" selection-start-column="6" selection-end-line="137" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="e#24#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/query.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/pigai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2571">
+          <caret line="122" column="46" lean-forward="true" selection-start-line="122" selection-start-column="46" selection-end-line="122" selection-end-column="46" />
+          <folding>
+            <element signature="e#164#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mitmproxyscript.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="129" column="61" lean-forward="true" selection-start-line="129" selection-start-column="61" selection-end-line="129" selection-end-column="61" />
+          <folding>
+            <element signature="e#24#45#0" expanded="true" />
+            <element signature="e#48#71#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/coordinate.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
