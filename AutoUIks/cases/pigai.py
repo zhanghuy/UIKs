@@ -57,9 +57,10 @@ class CalculatorTest(unittest.TestCase):
             # 没有发生异常，表示在页面中找到了该元素，返回True
             return True
     def get_image_path(self, filename, questionIndex, case= 'result'):
-        file_path = os.path.dirname(os.path.abspath(".")) + '\\result_image\\'
-        #now = time.strftime('%Y-%m-%d_%H_%M_%S_')
-        screen_name = "%simage%s_%s_%s_%s.png" % (file_path, questionIndex, self.deviceName, filename, case)
+        file_path = os.path.abspath(".") + '\\result_image\\'
+        now = int(time.time())                    #time.strftime('%Y-%m-%d_%H_%M_%S_')
+        screen_name = "%s%d_image%s_%s_%s_%s.png" % (file_path, int(time.time()), questionIndex, self.deviceName, filename, case)
+        print("screen_name"+screen_name)
         return screen_name
 
     def get_screent_img(self):
@@ -97,52 +98,33 @@ class CalculatorTest(unittest.TestCase):
         :param filename: file name
         :return: last line or None for empty file
         """
-        try:
-            filesize = os.path.getsize(filename)
-            if filesize == 0:
-                return None
-            else:
-                with open(filename, 'rb') as fp:  # to use seek from end, must use mode 'rb'
-                    offset = -8  # initialize offset
-                    while -offset < filesize:  # offset cannot exceed file size
-                        fp.seek(offset, 2)  # read # offset chars from eof(represent by number '2')
-                        lines = fp.readlines()  # read from fp to eof
-                        if len(lines) >= 2:  # if contains at least 2 lines
-                            return lines[-1]  # then last line is totally included
-                        else:
-                            offset *= 2  # enlarge offset
-                    fp.seek(0)
-                    lines = fp.readlines()
-                    return lines[-1]
-        except FileNotFoundError:
-            print(filename + ' not found!')
+        filesize = os.path.getsize(filename)
+        if filesize == 0:
             return None
+        else:
+            with open(filename, 'rb') as fp:  # to use seek from end, must use mode 'rb'
+                offset = -8  # initialize offset
+                while -offset < filesize:  # offset cannot exceed file size
+                    fp.seek(offset, 2)  # read # offset chars from eof(represent by number '2')
+                    lines = fp.readlines()  # read from fp to eof
+                    if len(lines) >= 2:  # if contains at least 2 lines
+                        return lines[-1]  # then last line is totally included
+                    else:
+                        offset *= 2  # enlarge offset
+                fp.seek(0)
+                lines = fp.readlines()
+                return lines[-1]
 
     def get_img(self):
-        imgfile = "../util/query.txt"
+        imgfile = os.path.abspath(".") + '\\conf\\queryinfo.txt'
         line = ast.literal_eval(bytes.decode(self.get_last_line(imgfile)))
         queryurl = line.get('url')
         imgsize = {'width': line.get('width'), 'height': line.get('height')}
         return imgsize, queryurl
 
-
-    # def get_img(self):
-    #     imgsize = {}
-    #     imgfile = "../util/query.txt"
-    #     with open(imgfile, encoding='utf-8') as f:
-    #         while 1:
-    #             lines = f.readlines(100)
-    #             if not lines:
-    #                 break
-    #             for line in lines:
-    #                 line = ast.literal_eval(line)
-    #                 queryurl = line.get('url')
-    #                 imgsize = {'width': line.get('width'), 'height': line.get('height')}
-    #             return imgsize, queryurl
-
     def get_loc(self, imgsize):
        coordinateList = []
-       coordinatefile = "../util/coordinate.txt"
+       coordinatefile = os.path.abspath(".") + '\\conf\\coordinate.txt'
        with open(coordinatefile, encoding='utf-8') as f:
            while 1:
                lines = f.readlines(100)
@@ -283,7 +265,7 @@ class CalculatorTest(unittest.TestCase):
             sleep(2)
 
     def question_count(self):
-        count = len(open(r"../util/coordinate.txt",'rU').readlines())
+        count = len(open(os.path.abspath(".") + '\\conf\\coordinate.txt').readlines())
         return count
 
     def scoll_to_top(self, location, size):
@@ -352,7 +334,7 @@ class CalculatorTest(unittest.TestCase):
         print(pigai_data)
     def get_testimage(self):
         images = []
-        image_path = os.path.dirname(os.path.abspath(".")) + '\\image\\'
+        image_path = os.path.abspath(".") + '\\image\\'
         for root, dirs, files in os.walk(image_path, topdown=False):
             for name in files:
                 images.append(os.path.join(root, name))
@@ -385,7 +367,7 @@ class CalculatorTest(unittest.TestCase):
         #拍照批改搜题
         # testimagelist = self.get_testimage()
         # for testimage in testimagelist:
-        #     with open('../util/testimage.txt', 'w') as f:
+        #     with open('os.path.abspath(".") + '\\conf\\testimage.txt', 'w') as f:
         #         f.truncate()
         #         f.write(str(testimage) + '\n')
         #     f.close()

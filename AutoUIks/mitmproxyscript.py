@@ -32,7 +32,7 @@ import json
 #         print("脚本")
 #         if data_json.get('data'):
 #             imginfo = data_json.get('data').get('imageInfo')
-#             with open('.\\query.txt', 'a+') as f:
+#             with open('.\\queryinfo.txt', 'a+') as f:
 #                 f.truncate()
 #                 print("image")
 #                 print(str(imginfo))
@@ -120,7 +120,7 @@ def response(flow: mitmproxy.http.HTTPFlow):
         print("脚本")
         if data_json.get('data'):
             imginfo = data_json.get('data').get('imageInfo')
-            with open('.\\util\\query.txt', 'w') as f:
+            with open('.\\conf\\queryinfo.txt', 'w') as f:
                 f.truncate()
                 print("image")
                 print(str(imginfo))
@@ -128,7 +128,7 @@ def response(flow: mitmproxy.http.HTTPFlow):
                 f.close()
         if data_json.get('data').get('questionList'):
             datas = data_json.get('data').get('questionList')
-            with open('.\\util\\coordinate.txt', 'w') as f:
+            with open('.\\conf\\coordinate.txt', 'w') as f:
                 f.truncate()
                 for data in datas:
                     exptype = data.get('expType')

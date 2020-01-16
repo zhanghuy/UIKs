@@ -12,7 +12,7 @@ class HandleResponse:
             print("脚本")
             if data_json.get('data'):
                 imginfo = data_json.get('data').get('imageInfo')
-                with open('.\\query.txt', 'a+') as f:
+                with open('.\\queryinfo.txt', 'a+') as f:
                     f.truncate()
                     print("image")
                     print(str(imginfo))
