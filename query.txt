@@ -1,0 +1,1 @@
+{'url': 'https://ks-static.zybang.com/ocr/202001/ks_f8c4489d47612641b2b712aa92bf5d70.jpg', 'width': 620, 'height': 598}
